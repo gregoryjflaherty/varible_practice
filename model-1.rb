@@ -14,4 +14,8 @@ directions_remaining = 7.5
 #booleans
 in_class = true
 is_weekend = false
-incomplete_homework = true 
+incomplete_homework = true
+
+#arrays
+concepts = ["strings", "integers", "floats", "arrays"]
+tools = ["Git", "GitHub", "Google"]
