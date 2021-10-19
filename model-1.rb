@@ -19,3 +19,6 @@ incomplete_homework = true
 #arrays
 concepts = ["strings", "integers", "floats", "arrays"]
 tools = ["Git", "GitHub", "Google"]
+
+#hashes
+coding = {program: "Backend", language: "Ruby", school: "Turing", day_of_month: 18}
